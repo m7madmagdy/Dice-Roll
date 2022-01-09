@@ -1,3 +1,3 @@
 # This is a Simple Dice-Roll 
 
-![alt text](https://m7madmagdy.github.io/pages/Dice%20Roll.jpg)
+<img src="https://m7madmagdy.github.io/pages/Dice%20Roll.jpg" alt="Dice Roll" style="width:200px;"/>
